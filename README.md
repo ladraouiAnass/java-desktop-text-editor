@@ -6,6 +6,44 @@
 ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
+## 🖼️ Application Preview
+
+<div align="center">
+
+### Main Interface & Multi-Tab Support
+![Main Interface](preview/exemple1.png)
+*Clean, professional interface with multi-document tab support*
+
+### Advanced Font Formatting Dialog
+![Font Dialog](preview/exemple2.png)
+*Comprehensive font customization with live preview*
+
+### Rich Text Editing Capabilities
+![Rich Text](preview/exemple3.png)
+*Full formatting support with colors and styles*
+
+### Search & Replace Functionality
+![Search Replace](preview/exemple4.png)
+*Powerful find and replace with highlighting*
+
+### Theme Customization
+![Themes](preview/exemple5.png)
+*Light and dark mode support*
+
+### File Operations
+![File Operations](preview/exemple6.png)
+*Smart file handling with format preservation*
+
+### Multiple Document Management
+![Multi Documents](preview/exemple7.png)
+*Efficient tab-based document management*
+
+### Professional Layout
+![Professional Layout](preview/exemple8.png)
+*Modern, intuitive user interface design*
+
+</div>
+
 ## 🌟 Features
 
 ### 📄 **File Management**
@@ -42,12 +80,6 @@
 | `Ctrl+Shift+W` | Close window |
 | `Ctrl+Space` | Zoom in |
 | `Ctrl+-` | Zoom out |
-
-### 🎯 **User Experience**
-- **Intuitive Interface** - Clean, modern Swing-based GUI
-- **Tab Management** - Easy navigation between multiple documents
-- **Zoom Controls** - Adjustable text size for better readability
-- **System Integration** - Native look and feel adaptation
 
 ## 🚀 Getting Started
 
@@ -97,16 +129,6 @@ java-desktop-text-editor/
     ├── exemple2.png
     └── ...
 ```
-
-## 🎨 Screenshots
-
-The `preview/` folder contains 8 example screenshots showcasing:
-- Multi-tab interface
-- Font formatting dialog
-- Dark/Light theme modes
-- Search and replace functionality
-- File operations
-- Text formatting options
 
 ## 🔧 Technical Highlights
 
